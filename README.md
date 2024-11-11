@@ -1,8 +1,5 @@
 # MERN Task Manager
 
-A MERN application for basic tasks management.
-https://github.com/user-attachments/assets/ea4845b3-50ab-4d98-8cec-473b30773d62
-
 ## Table of Contents
 
 - [Features](#features)
